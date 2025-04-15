@@ -1,5 +1,7 @@
 homepage: "https://www.uptok.com"
 documentation: "https://www.uptok.com/how-it-works"
 versions:
+  - sha: 1519bb72e5249b15b5ff01140fb99f1081850fe3
+    changeNotes: setup the google tag manage template for tags
   - sha: 0e82e88ad2be67484d6597ec69f89a1714bc48a7
     changeNotes: Initial commit
