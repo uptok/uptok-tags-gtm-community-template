@@ -1,0 +1,5 @@
+homepage: "https://www.uptok.com"
+documentation: "https://www.uptok.com/how-it-works"
+versions:
+  - sha: 0e82e88ad2be67484d6597ec69f89a1714bc48a7
+    changeNotes: Initial commit
